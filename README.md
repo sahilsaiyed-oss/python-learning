@@ -29,6 +29,9 @@ Topics covered include:
 ### 🔹 Project 1 – Core Python Practice
 Small scripts and logic-building programs.
 
+### 🔹 Project 2 – Core Python Practice
+Small scripts and logic-building programs.
+
 ### 🔹 Project 3 – Mega Jarvis
 A Python-based personal assistant project built while learning:
 - Python scripting
